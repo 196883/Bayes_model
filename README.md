@@ -1,4 +1,6 @@
 # Bayes_model
+
+## Introduction
     Bayes Modeling is very important in various situation.
     Here, I'd like to learn   
     1.How to impliment it by Python,  
