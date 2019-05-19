@@ -1,6 +1,6 @@
 # Bayes_model
 
-#Coution!
+# Coution!
     All code was writen by google colab environment.
 
 ## Introduction
